@@ -1,1 +1,7 @@
-# Swing-Calculator-U23MTE1058
+NAME: Gideon Akor Inalegwu
+
+MATRIC NO.: U23MTE 1058
+
+DEPARTMENT: Mechatronics
+
+USERNAME: gideon-16akor
